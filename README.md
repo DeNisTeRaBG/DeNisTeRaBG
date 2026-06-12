@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Denislav Dimitrov!
 
+![DeNisTeRaBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeNisTeRaBG&show_icons=true&theme=transparent)
+![DeNisTeRaBG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeNisTeRaBG&layout=compact&theme=transparent)
 
 *  I’m currently working on my **SnowPrism Download Manager**
 *  I’m currently learning **Networking**
@@ -14,7 +16,3 @@
 | **Frameworks** | Django, Node.js, Unity |
 | **Databases** | PostgreSQL, MongoDB |
 | **Tools & DevOps** | Git, Docker, Gradle |
-
-GitHub Stats
-
-![DeNisTeRaBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeNisTeRaBG&show_icons=true&theme=transparent)
