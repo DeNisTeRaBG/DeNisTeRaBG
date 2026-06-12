@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Denislav Dimitrov!
+#  Hi there, I'm Denislav Dimitrov!
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=DeNisTeRaBG&show_icons=true&theme=transparent)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeNisTeRaBG&theme=transparent&langs_count=6&layout=donut&v=3)
