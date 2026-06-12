@@ -17,4 +17,4 @@
 
 GitHub Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?DeNisTeRaBG=your-DeNisTeRaBG&show_icons=true&theme=transparent)
+![My Github Stats](https://github-readme-stats.vercel.app/api?DeNisTeRaBG=DeNisTeRaBG&show_icons=true&theme=transparent)
