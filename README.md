@@ -1,6 +1,6 @@
 #  Hi there, I'm Denislav Dimitrov!
 
-![My stats](https://github-readme-stats.vercel.app/api?username=DeNisTeRaBG&show_icons=true&theme=transparent)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeNisTeRaBG&show_icons=true&theme=transparent)
 *  I’m currently working on my **SnowPrism Download Manager**
 *  I’m currently learning **Networking**
 *  Ask me about **Python**
